@@ -38,8 +38,6 @@ This project analyzes customer reviews and purchasing behavior for British Airwa
 
 ---
 
-## Files Included
-- **Sentiment Analysis Notebook**: Contains steps for data cleaning, text processing, and sentiment classification.
-- **Model Training Notebook**: Details the predictive modeling process and results.
+
 
 
